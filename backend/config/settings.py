@@ -1,4 +1,5 @@
 import os
+# pyrefly: ignore [missing-import]
 import dj_database_url
 from pathlib import Path
 from datetime import timedelta
@@ -104,12 +105,13 @@ SIMPLE_JWT = {
 }
 
 # --- CORS ---
+# Allow all origins for this demo/assignment deployment.
+# On Render's free tier the backend sleeps and Render's own proxy can respond
+# before Django runs, which strips any CORS headers.  Using CORS_ALLOW_ALL_ORIGINS
+# ensures the header is always present once Django is awake, and removes the
+# fragility of exact-string URL matching across environments.
 
-CORS_ALLOWED_ORIGINS = os.environ.get(
-    'CORS_ALLOWED_ORIGINS',
-    'http://localhost:5173,http://127.0.0.1:5173'
-).split(',')
-
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
 
 # --- i18n ---
