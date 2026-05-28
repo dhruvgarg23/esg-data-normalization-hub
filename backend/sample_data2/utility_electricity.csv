@@ -1,0 +1,31 @@
+Meter_ID,Building_Name,Start_Date,End_Date,Usage_Quantity,Usage_Units,Total_Cost,Currency,Quality
+MTR-1001,Munich Manufacturing Plant,2024-07-15,2024-08-14,38200,kWh,7640.00,EUR,A
+MTR-1001,Munich Manufacturing Plant,2024-08-15,2024-09-14,36500,kWh,7300.00,EUR,A
+MTR-1001,Munich Manufacturing Plant,2024-09-15,2024-10-14,39800,kWh,7960.00,EUR,A
+MTR-1001,Munich Manufacturing Plant,2024-10-15,2024-11-14,42600,kWh,8520.00,EUR,A
+MTR-1001,Munich Manufacturing Plant,2024-11-15,2024-12-14,46100,kWh,9220.00,EUR,E
+MTR-1001,Munich Manufacturing Plant,2024-12-15,2025-01-14,44800,kWh,8960.00,EUR,A
+MTR-1002,Munich Manufacturing Plant - Annex,2024-07-15,2024-08-14,10800,kWh,2160.00,EUR,A
+MTR-1002,Munich Manufacturing Plant - Annex,2024-08-15,2024-09-14,10200,kWh,2040.00,EUR,A
+MTR-1002,Munich Manufacturing Plant - Annex,2024-09-15,2024-10-14,11400,kWh,2280.00,EUR,A
+MTR-1002,Munich Manufacturing Plant - Annex,2024-10-15,2024-11-14,12100,kWh,2420.00,EUR,A
+MTR-1002,Munich Manufacturing Plant - Annex,2024-11-15,2024-12-14,12800,kWh,2560.00,EUR,E
+MTR-1002,Munich Manufacturing Plant - Annex,2024-12-15,2025-01-14,11900,kWh,2380.00,EUR,A
+MTR-2001,Frankfurt Distribution Center,2024-07-01,2024-07-31,24200,kWh,4840.00,EUR,A
+MTR-2001,Frankfurt Distribution Center,2024-08-01,2024-08-31,23800,kWh,4760.00,EUR,A
+MTR-2001,Frankfurt Distribution Center,2024-09-01,2024-09-30,25600,kWh,5120.00,EUR,A
+MTR-2001,Frankfurt Distribution Center,2024-10-01,2024-10-31,27300,kWh,5460.00,EUR,A
+MTR-2001,Frankfurt Distribution Center,2024-11-01,2024-11-30,28900,kWh,5780.00,EUR,A
+MTR-2001,Frankfurt Distribution Center,2024-12-01,2024-12-31,26400,kWh,5280.00,EUR,A
+MTR-3001,Hamburg Port Facility,2024-04-20,2024-05-19,16.1,MWh,3220.00,EUR,A
+MTR-3001,Hamburg Port Facility,2024-05-20,2024-06-19,15.4,MWh,3080.00,EUR,A
+MTR-3001,Hamburg Port Facility,2024-06-20,2024-07-19,14.8,MWh,2960.00,EUR,A
+MTR-3001,Hamburg Port Facility,2024-07-20,2024-08-19,16.5,MWh,3300.00,EUR,E
+MTR-3001,Hamburg Port Facility,2024-08-20,2024-09-19,17.8,MWh,3560.00,EUR,A
+MTR-3001,Hamburg Port Facility,2024-09-20,2024-10-19,18.2,MWh,3640.00,EUR,A
+MTR-4001,Stuttgart R&D Lab,2024-07-01,2024-07-31,8900,kWh,1780.00,EUR,A
+MTR-4001,Stuttgart R&D Lab,2024-08-01,2024-08-31,7600,kWh,1520.00,EUR,A
+MTR-4001,Stuttgart R&D Lab,2024-09-01,2024-09-30,9200,kWh,1840.00,EUR,A
+MTR-4001,Stuttgart R&D Lab,2024-10-01,2024-10-31,9800,kWh,1960.00,EUR,A
+MTR-4001,Stuttgart R&D Lab,2024-11-01,2024-11-30,10400,kWh,2080.00,EUR,E
+MTR-4001,Stuttgart R&D Lab,2024-12-01,2024-12-31,9500,kWh,1900.00,EUR,A

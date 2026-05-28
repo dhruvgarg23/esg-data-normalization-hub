@@ -1,0 +1,35 @@
+Report_ID,Employee_Name,Expense_Type,Transaction_Date,Vendor,Amount,Currency,Origin,Destination,Check_In,Check_Out,Comment,Payment_Type
+RPT-2024-010,Anna Fischer,Airfare,2024-07-08,Lufthansa,920.00,EUR,MUC,AMS,,,Client meeting in Amsterdam,Corporate Card
+RPT-2024-010,Anna Fischer,Hotel,2024-07-08,NH Hotel Amsterdam,,EUR,,,2024-07-08,2024-07-10,2 nights Amsterdam client meeting,Corporate Card
+RPT-2024-010,Anna Fischer,Taxi,2024-07-08,Uber,42.00,EUR,,,,,AMS airport to hotel,Out of Pocket
+RPT-2024-010,Anna Fischer,Taxi,2024-07-10,Uber,38.50,EUR,,,,,Hotel to AMS airport,Out of Pocket
+RPT-2024-011,Klaus Richter,Airfare,2024-07-22,Turkish Airlines,1580.00,EUR,FRA,IST,,,Istanbul factory audit,Corporate Card
+RPT-2024-011,Klaus Richter,Hotel,2024-07-22,Swissotel Istanbul,,EUR,,,2024-07-22,2024-07-25,3 nights for factory audit,Corporate Card
+RPT-2024-011,Klaus Richter,Taxi,2024-07-23,BiTaksi,320.00,TRY,,,,,Factory site visits,Out of Pocket
+RPT-2024-012,Yuki Tanaka,Airfare,2024-08-05,ANA,3800.00,EUR,FRA,NRT,,,Japan supplier review,Corporate Card
+RPT-2024-012,Yuki Tanaka,Hotel,2024-08-05,Park Hyatt Tokyo,,JPY,,,2024-08-05,2024-08-12,7 nights supplier review,Corporate Card
+RPT-2024-012,Yuki Tanaka,Train,2024-08-07,JR East,28500.00,JPY,,,,,Tokyo to Osaka round trip shinkansen,Corporate Card
+RPT-2024-012,Yuki Tanaka,Taxi,2024-08-05,Japan Taxi,8500.00,JPY,,,,,Narita to hotel,Out of Pocket
+RPT-2024-013,Thomas Weber,Airfare,2024-08-19,Lufthansa,450.00,EUR,FRA,VIE,,,Vienna partner meeting,Corporate Card
+RPT-2024-013,Thomas Weber,Hotel,2024-08-19,Hilton Vienna,,EUR,,,2024-08-19,2024-08-21,2 nights Vienna,Corporate Card
+RPT-2024-013,Thomas Weber,Taxi,2024-08-20,Bolt,28.00,EUR,,,,,Hotel to meeting venue,Out of Pocket
+RPT-2024-014,Maria Schmidt,Airfare,2024-09-02,Delta,3950.00,EUR,MUC,JFK,,,NYC board meeting,Corporate Card
+RPT-2024-014,Maria Schmidt,Hotel,2024-09-02,The Plaza New York,,USD,,,2024-09-02,2024-09-06,4 nights NYC board meeting,Corporate Card
+RPT-2024-014,Maria Schmidt,Car Rental,2024-09-04,Avis,275.00,USD,,,,,Rental for NJ office visits,Corporate Card
+RPT-2024-014,Maria Schmidt,Taxi,2024-09-02,Yellow Cab,68.00,USD,,,,,JFK to Manhattan hotel,Out of Pocket
+RPT-2024-015,Jan Mueller,Train,2024-09-15,Deutsche Bahn,245.00,EUR,,,,,Berlin to Munich round trip,Corporate Card
+RPT-2024-015,Jan Mueller,Hotel,2024-09-15,Adlon Kempinski Berlin,,EUR,,,2024-09-15,2024-09-17,2 nights conference in Berlin,Corporate Card
+RPT-2024-016,Priya Kapoor,Airfare,2024-10-01,Lufthansa,780.00,EUR,FRA,BCN,,,Barcelona sustainability summit,Corporate Card
+RPT-2024-016,Priya Kapoor,Hotel,2024-10-01,Hotel Arts Barcelona,,EUR,,,2024-10-01,2024-10-04,3 nights sustainability summit,Corporate Card
+RPT-2024-016,Priya Kapoor,Taxi,2024-10-01,Cabify,32.00,EUR,,,,,BCN airport to hotel,Out of Pocket
+RPT-2024-017,Anna Fischer,Airfare,2024-10-14,KLM,650.00,EUR,MUC,CPH,,,Copenhagen green energy conference,Corporate Card
+RPT-2024-017,Anna Fischer,Hotel,2024-10-14,Nimb Hotel Copenhagen,,DKK,,,2024-10-14,2024-10-16,2 nights Copenhagen,Corporate Card
+RPT-2024-017,Anna Fischer,Taxi,2024-10-14,Dantaxi,285.00,DKK,,,,,CPH airport to hotel,Out of Pocket
+RPT-2024-018,Klaus Richter,Airfare,2024-11-04,Emirates,2680.00,EUR,FRA,DXB,,,COP29 preparation meeting Dubai,Corporate Card
+RPT-2024-018,Klaus Richter,Hotel,2024-11-04,Atlantis The Royal,,EUR,,,2024-11-04,2024-11-08,4 nights Dubai COP29 prep,Corporate Card
+RPT-2024-018,Klaus Richter,Car Rental,2024-11-05,Hertz,420.00,AED,,,,,Rental for site inspections,Corporate Card
+RPT-2024-019,Thomas Weber,Airfare,2024-11-18,Swiss Air,380.00,EUR,FRA,ZRH,,,Zurich year-end review,Corporate Card
+RPT-2024-019,Thomas Weber,Train,2024-11-18,SBB,85.00,CHF,,,,,Zurich HB to Winterthur and back,Out of Pocket
+RPT-2024-020,Jan Mueller,Airfare,2024-12-02,British Airways,4200.00,EUR,FRA,SYD,,,Australia market expansion meeting,Corporate Card
+RPT-2024-020,Jan Mueller,Hotel,2024-12-02,Shangri-La Sydney,,AUD,,,2024-12-02,2024-12-08,6 nights Sydney,Corporate Card
+RPT-2024-020,Jan Mueller,Taxi,2024-12-02,13cabs,95.00,AUD,,,,,Sydney airport to hotel,Out of Pocket
