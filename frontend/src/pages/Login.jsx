@@ -96,9 +96,7 @@ export default function Login({ onLogin }) {
         }}>
           <strong style={{ color: 'var(--text-secondary)' }}>Demo Credentials</strong>
           <br />
-          Admin: <code style={{ background: 'var(--bg-surface)', padding: '1px 4px', borderRadius: 'var(--r-sm)', border: '1px solid var(--border)' }}>admin</code> / <code style={{ background: 'var(--bg-surface)', padding: '1px 4px', borderRadius: 'var(--r-sm)', border: '1px solid var(--border)' }}>password123</code>
-          <br />
-          Analyst: <code style={{ background: 'var(--bg-surface)', padding: '1px 4px', borderRadius: 'var(--r-sm)', border: '1px solid var(--border)' }}>analyst</code> / <code style={{ background: 'var(--bg-surface)', padding: '1px 4px', borderRadius: 'var(--r-sm)', border: '1px solid var(--border)' }}>password123</code>
+          Username: <code style={{ background: 'var(--bg-surface)', padding: '1px 4px', borderRadius: 'var(--r-sm)', border: '1px solid var(--border)' }}>admin</code> / Password: <code style={{ background: 'var(--bg-surface)', padding: '1px 4px', borderRadius: 'var(--r-sm)', border: '1px solid var(--border)' }}>Admin@1234</code>
         </div>
       </div>
     </div>
