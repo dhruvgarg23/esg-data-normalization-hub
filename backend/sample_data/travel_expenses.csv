@@ -1,0 +1,28 @@
+Report_ID,Employee_Name,Expense_Type,Transaction_Date,Vendor,Amount,Currency,Origin,Destination,Check_In,Check_Out,Comment,Payment_Type
+RPT-2024-001,Maria Schmidt,Airfare,2024-01-15,Lufthansa,842.00,EUR,MUC,LHR,,,"Client meeting in London",Corporate Card
+RPT-2024-001,Maria Schmidt,Hotel,2024-01-15,Premier Inn London,,GBP,,,2024-01-15,2024-01-17,"2 nights for client meeting",Corporate Card
+RPT-2024-001,Maria Schmidt,Taxi,2024-01-15,Uber,35.50,GBP,,,,,Airport transfer LHR to hotel,Out of Pocket
+RPT-2024-001,Maria Schmidt,Taxi,2024-01-17,Uber,38.20,GBP,,,,,Hotel to LHR airport,Out of Pocket
+RPT-2024-002,Thomas Weber,Airfare,2024-02-05,Emirates,2450.00,EUR,FRA,DXB,,,"Sales conference Dubai",Corporate Card
+RPT-2024-002,Thomas Weber,Hotel,2024-02-05,Marriott Dubai,,EUR,,,2024-02-05,2024-02-09,"4 nights conference",Corporate Card
+RPT-2024-002,Thomas Weber,Taxi,2024-02-05,Careem,85.00,AED,,,,,Airport to hotel,Out of Pocket
+RPT-2024-003,Priya Kapoor,Airfare,2024-02-20,Air India,1850.00,EUR,FRA,DEL,,,"India office visit",Corporate Card
+RPT-2024-003,Priya Kapoor,Airfare,2024-02-28,Air India,1850.00,EUR,DEL,FRA,,,"Return flight from India",Corporate Card
+RPT-2024-003,Priya Kapoor,Hotel,2024-02-20,Taj Palace New Delhi,,EUR,,,2024-02-20,2024-02-28,"8 nights India office",Corporate Card
+RPT-2024-003,Priya Kapoor,Taxi,2024-02-20,Ola,450.00,INR,,,,,Various local transport,Out of Pocket
+RPT-2024-004,Jan Mueller,Train,2024-03-10,Deutsche Bahn,189.00,EUR,,,,,Munich to Frankfurt round trip,Corporate Card
+RPT-2024-004,Jan Mueller,Hotel,2024-03-10,Hilton Frankfurt,,EUR,,,2024-03-10,2024-03-11,"1 night for meeting",Corporate Card
+RPT-2024-005,Sarah Chen,Airfare,2024-03-18,Singapore Airlines,3200.00,EUR,FRA,SIN,,,"APAC partner meeting",Corporate Card
+RPT-2024-005,Sarah Chen,Hotel,2024-03-18,Marina Bay Sands,,SGD,,,2024-03-18,2024-03-22,"4 nights Singapore",Corporate Card
+RPT-2024-005,Sarah Chen,Taxi,2024-03-18,Grab,45.00,SGD,,,,,Airport transfer,Out of Pocket
+RPT-2024-006,Maria Schmidt,Airfare,2024-04-02,British Airways,520.00,EUR,MUC,LHR,,,"Follow-up client meeting",Corporate Card
+RPT-2024-006,Maria Schmidt,Car Rental,2024-04-02,Hertz,185.00,GBP,,,,,Rental car for site visits,Corporate Card
+RPT-2024-007,Thomas Weber,Airfare,2024-04-15,Lufthansa,380.00,EUR,FRA,CDG,,,"Paris office meeting",Corporate Card
+RPT-2024-007,Thomas Weber,Hotel,2024-04-15,Novotel Paris,,EUR,,,2024-04-15,2024-04-16,"1 night Paris",Corporate Card
+RPT-2024-007,Thomas Weber,Taxi,2024-04-15,Uber,52.00,EUR,,,,,CDG to hotel,Out of Pocket
+RPT-2024-008,Priya Kapoor,Airfare,2024-05-06,Lufthansa,680.00,EUR,FRA,ZRH,,,"Zurich client workshop",Corporate Card
+RPT-2024-008,Priya Kapoor,Hotel,2024-05-06,Zurich Marriott,,CHF,,,2024-05-06,2024-05-08,"2 nights workshop",Corporate Card
+RPT-2024-008,Priya Kapoor,Train,2024-05-08,SBB,62.00,CHF,,,,,Zurich to airport,Out of Pocket
+RPT-2024-009,Jan Mueller,Airfare,2024-05-20,United Airlines,4100.00,EUR,FRA,SFO,,,"US client onboarding",Corporate Card
+RPT-2024-009,Jan Mueller,Hotel,2024-05-20,Hilton San Francisco,,USD,,,2024-05-20,2024-05-25,"5 nights San Francisco",Corporate Card
+RPT-2024-009,Jan Mueller,Car Rental,2024-05-22,Enterprise,220.00,USD,,,,,Rental for client site visits,Corporate Card
